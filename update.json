@@ -1,0 +1,15 @@
+{
+  "app": {
+    "version": "1.1.3",
+    "file": "珞珈课寻.exe",
+    "size": 745472,
+    "sha256": "c20dab55405c0095cae9a75b1fd6510fed43c9244e0ee452d1dc0d6dec0ce2a1",
+    "notes": "修复了一些bug，提升用户体验"
+  },
+  "db": {
+    "version": "2026-09-27 20:52:51",
+    "file": "data/kebiao.db.enc",
+    "size": 16143024,
+    "sha256": "67f0110c19ee3ac7bc801ea4b4df902db33407c8fe7060ae85677c68fbca0daa"
+  }
+}
