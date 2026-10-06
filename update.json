@@ -1,9 +1,9 @@
 {
   "app": {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "file": "珞珈课寻.exe",
-    "size": 774656,
-    "sha256": "7748179d9acea1816c3eff8c162296c612a0e8df2d323a1f61d167b5f4e25511",
+    "size": 743936,
+    "sha256": "cdc0474fe890eb92f8abc4fdf2ae08f208a1c3a41953999597550c2a86adf8b9",
     "notes": "修复了一些bug，提升用户体验"
   },
   "db": {
