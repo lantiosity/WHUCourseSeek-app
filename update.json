@@ -7,9 +7,9 @@
     "notes": "修复了一些bug，提升用户体验"
   },
   "db": {
-    "version": "2026-09-19 01:33:47",
+    "version": "2026-09-27 20:52:51",
     "file": "data/kebiao.db.enc",
-    "size": 16147372,
-    "sha256": "55f47d6e94a965eca0e17020e8d36d6163480facfea732352b5bf1aa4f93cde8"
+    "size": 16143024,
+    "sha256": "67f0110c19ee3ac7bc801ea4b4df902db33407c8fe7060ae85677c68fbca0daa"
   }
 }
