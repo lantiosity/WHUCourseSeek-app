@@ -11,7 +11,7 @@
 ## 下载与运行
 
 **方式一（推荐）**：到 [Releases](https://github.com/lantiosity/WHUCourseSeek-app/releases/latest) 下载
-`WHUCourseSeek-v1.1.3-win-x86_64.zip`（SHA256 `a54d4c8fb3cf28406305cdc1b67dfa4a805a5377da3b219033318d31d3fc6aba`），解压到任意目录，双击 `珞珈课寻.exe`。
+`WHUCourseSeek-v1.1.4-win-x86_64.zip`（SHA256 `a54d4c8fb3cf28406305cdc1b67dfa4a805a5377da3b219033318d31d3fc6aba`），解压到任意目录，双击 `珞珈课寻.exe`。
 
 **方式二**：直接在本仓库下载 `珞珈课寻.exe` 和 `data/kebiao.db.enc`（保持 `data` 目录结构），
 放进同一个文件夹后双击运行。**不需要任何 DLL**——程序是静态链接的单文件，无 .NET 依赖。
